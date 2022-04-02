@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://www.sjyoung428.com/sitemap/sitemap-index.xml
+Host: https://www.sjyoung428.com
