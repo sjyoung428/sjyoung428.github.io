@@ -67,7 +67,9 @@ npm i @emotion/react
 npm i @emotion/styled
 ```
 
-이렇게 해서 해결했습니다.
+이렇게 해서 해결했습니다. 정상적으로 작동하면 경로는
+
+`http://localhost:8000`입니다.
 
 ## 5. Gatsby blog 커스텀하기
 
