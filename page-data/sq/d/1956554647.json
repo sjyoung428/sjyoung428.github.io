@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Gatsby로 GitHub 블로그 만들기","categories":"블로그"},"fields":{"slug":"/create-blog/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"React18을 typescript로 시작하기","categories":"리액트"},"fields":{"slug":"/react18-typescript/"}}},{"node":{"frontmatter":{"title":"Gatsby로 GitHub 블로그 만들기","categories":"블로그"},"fields":{"slug":"/create-blog/"}}}]}}}
